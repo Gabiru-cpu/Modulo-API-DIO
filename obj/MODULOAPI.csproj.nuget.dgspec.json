@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/run/media/gabriel/HD Hitachi/DEV/DIO/Pottencial.NET+C#/MODULOAPI/MODULOAPI.csproj": {}
+    "F:\\DEV\\DIO\\Pottencial.NET+C#\\MODULOAPI\\MODULOAPI.csproj": {}
   },
   "projects": {
-    "/run/media/gabriel/HD Hitachi/DEV/DIO/Pottencial.NET+C#/MODULOAPI/MODULOAPI.csproj": {
+    "F:\\DEV\\DIO\\Pottencial.NET+C#\\MODULOAPI\\MODULOAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/run/media/gabriel/HD Hitachi/DEV/DIO/Pottencial.NET+C#/MODULOAPI/MODULOAPI.csproj",
+        "projectUniqueName": "F:\\DEV\\DIO\\Pottencial.NET+C#\\MODULOAPI\\MODULOAPI.csproj",
         "projectName": "MODULOAPI",
-        "projectPath": "/run/media/gabriel/HD Hitachi/DEV/DIO/Pottencial.NET+C#/MODULOAPI/MODULOAPI.csproj",
-        "packagesPath": "/home/gabriel/.nuget/packages/",
-        "outputPath": "/run/media/gabriel/HD Hitachi/DEV/DIO/Pottencial.NET+C#/MODULOAPI/obj/",
+        "projectPath": "F:\\DEV\\DIO\\Pottencial.NET+C#\\MODULOAPI\\MODULOAPI.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "F:\\DEV\\DIO\\Pottencial.NET+C#\\MODULOAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gabriel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -42,6 +42,16 @@
               "target": "Package",
               "version": "[7.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -66,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
