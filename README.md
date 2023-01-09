@@ -6,3 +6,7 @@
 
 ### dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 ### dotnet add package Microsoft.EntityFrameworkCore.Design   OBS: Toda vez que quiser usar o entity em um projeto
+
+### dotnet-ef migrations add <NomeDaMigration>
+
+### dotnet-ef database update
